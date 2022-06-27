@@ -1,0 +1,4 @@
+errorHandling.c:12:8:resetLEDs	8	static
+errorHandling.c:21:6:UART_faultyFrame	24	static
+errorHandling.c:29:6:formatUart	32	static
+errorHandling.c:42:6:confWatchdog	8	static

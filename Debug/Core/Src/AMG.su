@@ -1,0 +1,8 @@
+AMG.c:14:5:writeRegister	32	static
+AMG.c:34:6:confAMG	32	static
+AMG.c:72:10:amgGetData	40	static
+AMG.c:88:10:amgTranslateDataInt	24	static
+AMG.c:98:7:amgTranslateDataFloat	24	static
+AMG.c:108:6:amgDataToUart	72	static
+AMG.c:155:10:convertFloatFractionToInt	48	static
+AMG.c:170:5:amgDataPlausibilityCheck	24	static

@@ -1,0 +1,4 @@
+LCD.c:11:6:confLCD	8	static
+LCD.c:19:6:drawLCD	16	static
+LCD.c:26:6:updateLCD	40	static
+LCD.c:62:10:assignColor	72	static
